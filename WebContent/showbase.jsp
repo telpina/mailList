@@ -49,6 +49,6 @@ import  = "java.sql.*"
 	finally{}
 %>
 </table>
-<a href="/TestTaskMicrofocus/index.html">Page back</a>
+<a href="/mailList/index.html">Page back</a>
 </body>
 </html>
